@@ -5,4 +5,4 @@ Este programa, você poderá:
  - Criar seu cadastro;
  - Realizar login;
  - Realizar logoff;
- - Verificar de status (se está logado ou não).
+ - Verificação de status ( se está logado ou não ).
