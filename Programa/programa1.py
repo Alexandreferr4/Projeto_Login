@@ -115,8 +115,8 @@ def singup():
 users = {}
 loginStatus = None
 WELCOME_MSG = (
-    '\nBem-vindo a plataforma da Oliveira Trade!\n'
-    'Para relizar Sing in ou Sing up em nossa plataforma, '
+    '\n#Bem-vindo a plataforma da Oliveira Trade!\n'
+    'Para realizar Sing in ou Sing up em nossa plataforma,\n'
     'basta seguir as instruções abaixo.'
 )
 print(WELCOME_MSG)
